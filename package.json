@@ -1,0 +1,22 @@
+{
+  "name": "zeptocourse",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickLeong/demo00.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickLeong/demo00/issues"
+  },
+  "homepage": "https://github.com/rickLeong/demo00#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
